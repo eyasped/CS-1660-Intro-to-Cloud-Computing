@@ -12,4 +12,12 @@
 10. Then run kubectl get nodes to see kubernetes clusters
  
  
-                      
+**to Start up the CLI app go to the main.py and open it**
+then follow the following instruction
+1. Appache Hadoop
+2. Appache Spark
+3. Jupyter Notebook
+4. SonarQube and SonarScanner
+Enter q to quit.
+
+The opetions are not linked to any of the links at the moment. 
