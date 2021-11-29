@@ -20,4 +20,4 @@ then follow the following instruction
 4. SonarQube and SonarScanner
 Enter q to quit.
 
-The opetions are not linked to any of the links at the moment. 
+The options are not linked to any of the links at the moment. 
